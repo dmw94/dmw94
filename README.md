@@ -1,6 +1,9 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmw94&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-## Time I have spent coding in the last seven days
-![My coding time](https://wakatime.com/share/@6cfc6d05-38b2-48d6-83aa-2609e431c00d/4e74ec6b-09a9-48b1-8776-c84ead3cccd5.svg "My coding time")
+---
 
-## Percentage of my time spent with each language since August 2022
-![My language activity](https://wakatime.com/share/@6cfc6d05-38b2-48d6-83aa-2609e431c00d/c25985f4-1e15-4387-91c5-c8ba8900eb37.svg "My language activity")
+<img src="https://wakatime.com/share/@6cfc6d05-38b2-48d6-83aa-2609e431c00d/fbc86a23-f5c5-48b0-b0b1-f6067ceb44c4.svg" width="495">
+
+---
+
+<img src="https://wakatime.com/share/@6cfc6d05-38b2-48d6-83aa-2609e431c00d/27338df5-d0d6-4a48-b7a7-0d0aa4cedece.svg" width="495">
