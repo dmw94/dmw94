@@ -1,35 +1,39 @@
 ## What I know already...
-![Python] ![VB.NET] ![PostgreSQL] ![Markdown] ![GitHub] ![Git] ![HTML] ![R]
 
-## What I am currently learning...
-![Rust] ![Ruby] ![JavaScript] ![D3.js]
+![Python] ![R] ![VB.NET] ![PostgreSQL] ![MySQL] ![JSON] ![HTML] ![XML] ![Markdown] ![LaTeX] ![Bash] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![GitHub]
 
-## What I plan to learn next...
-![Swift] ![TypeScript] ![Go] ![Docker] ![Nim] ![Kotlin] ![C++]
+## What I am learning / want to learn next...
 
-<!--
-  To finish off the above, see here (https://simpleicons.org) for logo slugs needed to make new badges by copying a URL from the below and editing for the new addition to one of the above categories. See tech-stack repo for full list of known languages, current CPD, and plans for further CPD
--->
+![Rust] ![Ruby] ![Ruby on Rails] ![TypeScript] ![D3.js] ![Swift] ![Docker] ![Nim] ![Kotlin] ![WebAssembly] ![Carbon] ![PyScript]
 
+[PyScript]: https://img.shields.io/badge/PyScript-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=python
+[Carbon]: https://img.shields.io/badge/Carbon-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=google
+[JSON]: https://img.shields.io/badge/JSON-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=json
+[WebAssembly]: https://img.shields.io/badge/WebAssembly-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=webassembly
+[Bash]: https://img.shields.io/badge/Bash-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=gnubash
+[XML]: https://img.shields.io/badge/XML-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=w3c
+[Tableau]: https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=tableau
+[PowerBI]: https://img.shields.io/badge/PowerBI-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=powerbi
+[Google Data Studio]: https://img.shields.io/badge/Google_Data_Studio-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=google
+[Figma]: https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=figma
+[LaTeX]: https://img.shields.io/badge/LaTeX-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=latex
 [R]: https://img.shields.io/badge/R-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=R
-[HTML]: https://img.shields.io/badge/HTML-000000?style=for-the-badge&labelColor=000000&logoColor=ffffff&logo=html5
-[VB.NET]: https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&labelColor=512BD4&logoColor=ffffff&logo=visualstudio
-[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=F05032&logoColor=ffffff&logo=git
-[GitHub]: https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&labelColor=181717&logoColor=ffffff&logo=github
-[C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=cplusplus
-[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python
+[HTML]: https://img.shields.io/badge/HTML-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=html5
+[VB.NET]: https://img.shields.io/badge/VB.NET-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=visualstudio
+[GitHub]: https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=github
+[Python]: https://img.shields.io/badge/Python-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=python
 [Rust]: https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=rust
-[Ruby]: https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&labelColor=fad3a1&logoColor=CC342D&logo=ruby
-[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=ffffff&logoColor=F7DF1E&logo=javascript
-[D3.js]: https://img.shields.io/badge/D3.js-F7DF1E?style=for-the-badge&labelColor=ffffff&logoColor=F7DF1E&logo=d3dotjs
-[Kotlin]: https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=34495E&logoColor=0095D5&logo=kotlin
-[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=369cee&logoColor=ffffff&logo=docker
-[Go]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=7fd5eb&logoColor=00ADD8&logo=go
-[Nim]: https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&labelColor=161920&logoColor=FFE953&logo=nim
+[Ruby]: https://img.shields.io/badge/Ruby-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=ruby
+[Ruby on Rails]: https://img.shields.io/badge/Ruby_on_Rails-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=rubyonrails
+[D3.js]: https://img.shields.io/badge/D3.js-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=d3dotjs
+[Kotlin]: https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=kotlin
+[Docker]: https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=docker
+[Nim]: https://img.shields.io/badge/Nim-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=nim
 [Markdown]: https://img.shields.io/badge/Markdown-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=markdown
-[Swift]: https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&labelColor=FA7343&logoColor=ffffff&logo=swift
-[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=ffffff&logoColor=3178C6&logo=typescript
-[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=ffffff&logoColor=4169E1&logo=postgresql
+[Swift]: https://img.shields.io/badge/Swift-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=swift
+[TypeScript]: https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=typescript
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=postgresql
+[MySQL]: https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=mysql
 
 ---
 
