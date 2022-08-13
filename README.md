@@ -1,10 +1,10 @@
 ## What I know already...
 
-![Python] ![R] ![VB.NET] ![VBA] ![PostgreSQL] ![MySQL] ![JSON] ![HTML] ![XML] ![Markdown] ![LaTeX] ![Bash] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![GitHub]
+![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![PostgreSQL] ![MySQL] ![JSON] ![HTML] ![XML] ![Markdown] ![LaTeX] ![Bash] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![GitHub]
 
 ## What I am learning / want to learn next...
 
-![Rust] ![Ruby] ![Ruby on Rails] ![TypeScript] ![D3.js] ![Swift] ![Docker] ![Nim] ![Kotlin] ![WebAssembly] ![Carbon] ![PyScript]
+![Ruby] ![Ruby on Rails] ![TypeScript] ![D3.js] ![Swift] ![Docker] ![Nim] ![Kotlin] ![WebAssembly] ![Carbon] ![PyScript]
 
 [VBA]: https://img.shields.io/badge/VBA-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=microsoftoffice
 [PyScript]: https://img.shields.io/badge/PyScript-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=python
