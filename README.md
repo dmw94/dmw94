@@ -1,6 +1,6 @@
 ## What I know already...
 
-![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![PostgreSQL] ![MySQL] ![JSON] ![HTML] ![XML] ![Markdown] ![LaTeX] ![Bash] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![GitHub]
+![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![PostgreSQL] ![MySQL] ![JSON] ![HTML] ![XML] ![Markdown] ![LaTeX] ![Bash] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![Git] ![GitHub] 
 
 ## What I am learning / want to learn next...
 
@@ -22,6 +22,7 @@
 [R]: https://img.shields.io/badge/R-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=R
 [HTML]: https://img.shields.io/badge/HTML-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=html5
 [VB.NET]: https://img.shields.io/badge/VB.NET-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=visualstudio
+[Git]: https://img.shields.io/badge/Git-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=git
 [GitHub]: https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=github
 [Python]: https://img.shields.io/badge/Python-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=python
 [Rust]: https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=rust
