@@ -4,8 +4,9 @@
 
 ## What I am learning / want to learn next...
 
-![Ruby] ![Ruby on Rails] ![TypeScript] ![D3.js] ![Swift] ![Docker] ![Nim] ![Kotlin] ![WebAssembly] ![Carbon] ![PyScript]
+![Ruby] ![Ruby on Rails] ![CSS] ![TypeScript] ![D3.js] ![Swift] ![Docker] ![Nim] ![Kotlin] ![WebAssembly] ![Carbon] ![PyScript]
 
+[CSS]: https://img.shields.io/badge/CSS-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=css3
 [VBA]: https://img.shields.io/badge/VBA-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=microsoftoffice
 [PyScript]: https://img.shields.io/badge/PyScript-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=python
 [Carbon]: https://img.shields.io/badge/Carbon-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=google
