@@ -6,6 +6,9 @@ Welcome to my Github profile! I use this for personal and professional projects.
 - I am a recovered academic, and worked a number of teaching, local government, and financial services jobs during and after my PhD.
 - In my current day job I do programming and OSINT.
 - Outside of work I am a director of Edda Ltd, a data consultancy.
+- If you like my FOSS projects, feel free to buy me a coffee to help support development and maintenance!
+
+<a href="https://www.buymeacoffee.com/dmw94" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## What I have in my toolbox...
 
