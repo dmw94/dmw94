@@ -1,10 +1,8 @@
-Welcome to my Github profile! 
-
-I use this profile for personal and professional projects.
+Welcome to my Github profile! I use this for personal and professional projects.
 
 ## About me
 
-- I started programming way back in 2009 when I learned my first language (Visual Basic).
+- I started programming back in 2009 when I learned my first language (Visual Basic).
 - I am a recovered academic, and worked a number of teaching, local government, and financial services jobs during and after my PhD.
 - In my current day job I do programming and OSINT.
 - Outside of work I am a director of Edda Ltd, a data consultancy.
