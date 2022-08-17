@@ -8,13 +8,13 @@ Welcome to my Github profile! I use this for personal and professional projects.
 - Outside of work I am a director of Edda Ltd, a data consultancy.
 - If you like my FOSS projects, feel free to buy me a coffee to help support development and maintenance!
 
-<a href="https://www.buymeacoffee.com/dmw94" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<p align="center"><a href="https://www.buymeacoffee.com/dmw94" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
 
-## What I have in my toolbox...
+### What I have in my toolbox...
 
 ![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![PostgreSQL] ![MySQL] ![JSON] ![HTML] ![XML] ![Markdown] ![LaTeX] ![Bash] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![Git] ![GitHub] 
 
-## What I am learning / want to learn next...
+### What I am learning / want to learn next...
 
 ![Ruby] ![Ruby on Rails] ![CSS] ![TypeScript] ![D3.js] ![Swift] ![Docker] ![Nim] ![Kotlin] ![WebAssembly] ![Carbon] ![PyScript]
 
