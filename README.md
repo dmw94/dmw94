@@ -7,7 +7,7 @@ I use this profile professionally, but also to publish personal projects.
 - I started programming way back in 2009 when I learned my first language (Visual Basic).
 - I am a recovered academic, and worked a number of teaching, local government, and financial services jobs during and after my PhD.
 - In my current day job, I do programming and OSINT on behalf of my employer's Research Department.
-- Outside of work, I am a director at a data consultancy @Edda-Ltd.
+- Outside of work, I am a director at a data consultancy.
 
 ## What I have in my toolbox...
 
