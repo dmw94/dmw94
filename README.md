@@ -1,4 +1,15 @@
-## What I know already...
+Welcome to my Github profile! 
+
+I use this profile professionally, but also to publish personal projects.
+
+## About me
+
+- I started programming way back in 2009 when I learned my first language (Visual Basic).
+- I am a recovered academic, and worked a number of teaching, local government, and financial services jobs during and after my PhD.
+- In my current day job, I do programming and OSINT on behalf of my employer's Research Department.
+- Outside of work, I am a director at a data consultancy @Edda-Ltd.
+
+## What I have in my toolbox...
 
 ![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![PostgreSQL] ![MySQL] ![JSON] ![HTML] ![XML] ![Markdown] ![LaTeX] ![Bash] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![Git] ![GitHub] 
 
