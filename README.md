@@ -64,4 +64,4 @@ Welcome to my Github profile! I use this for personal and professional projects.
 
 ---
 
-<p align="center"><img src="https://wakatime.com/share/@6cfc6d05-38b2-48d6-83aa-2609e431c00d/27338df5-d0d6-4a48-b7a7-0d0aa4cedece.svg" width="495"></p>
+<p align="center"><img src="https://wakatime.com/share/@6cfc6d05-38b2-48d6-83aa-2609e431c00d/92945979-1f1a-4db7-aa87-54798ac33bc2.svg" width="495"></p>
