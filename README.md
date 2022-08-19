@@ -5,7 +5,7 @@ Welcome to my Github profile! I use this for personal and professional projects.
 - I started programming back in 2009 when I learned my first language (Visual Basic).
 - I am a recovered academic, and worked a number of teaching, local government, and financial services jobs during and after my PhD.
 - In my day job I do programming and OSINT.
-- Outside of work I am a director of Edda Ltd, a data consultancy.
+- Outside of work I am a director at Edda, a data consultancy.
 - If you like my personal projects, feel free to buy me a coffee to help support development and maintenance!
 
 <p align="center"><a href="https://www.buymeacoffee.com/dmw94" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
