@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/dmw94/dmw94/blob/main/pretty_title_readme.png" alt="dmw94" height="175" width="500"></a></p>
 
-Welcome to my Github profile! I use this for personal and professional projects.
+<p align="center">Welcome to my Github profile! I use this for personal and professional projects.</p>
 
 ## About me
 
