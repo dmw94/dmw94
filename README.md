@@ -16,7 +16,7 @@
 
 ![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![Ruby] ![CSS] ![HTML] ![XML] ![Markdown] ![LaTeX] ![PostgreSQL] ![MySQL] ![JSON] ![Bash] ![Zsh] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![Git] ![GitHub] ![Docker]
 
-### What I am learning / want to learn next...
+### What I want to learn next...
 
 ![TypeScript] ![D3.js] ![Nim]
 
