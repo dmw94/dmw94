@@ -14,13 +14,14 @@
 
 ### What I have in my toolbox...
 
-![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![Ruby] ![CSS] ![HTML] ![XML] ![Markdown] ![LaTeX] ![PostgreSQL] ![MySQL] ![JSON] ![Bash] ![Zsh] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![Git] ![GitHub] ![Docker]
+![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![Ruby] ![CSS] ![HTML] ![XML] ![Markdown] ![LaTeX] ![PostgreSQL] ![MySQL] ![JSON] ![Bash] ![Zsh] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![Git] ![GitHub] ![Docker] ![Powershell]
 
 ### What I want to learn next...
 
 ![TypeScript] ![D3.js] ![Nim]
 
 [CSS]: https://img.shields.io/badge/CSS-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=css3
+[Powershell]: https://img.shields.io/badge/Powershell-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=powershell
 [VBA]: https://img.shields.io/badge/VBA-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=microsoftoffice
 [JSON]: https://img.shields.io/badge/JSON-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=json
 [Bash]: https://img.shields.io/badge/Bash-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=gnubash
