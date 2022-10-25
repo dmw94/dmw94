@@ -2,7 +2,7 @@
 
 <p align="center">Welcome to my Github profile! I use this for personal and professional projects.</p>
 
-If you like my personal projects, feel free to buy me a coffee to help support development and maintenance!
+<p align="center">If you like my personal projects, feel free to buy me a coffee to help support development and maintenance!</p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/dmw94" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
 
