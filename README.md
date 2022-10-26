@@ -44,14 +44,6 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dmw94&theme=synthwave&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" width="495"></p>
-
----
-
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=dmw94&theme=synthwave&hide_border=true" width="495"></p>
-
----
-
 <p align="center"><img src="https://wakatime.com/share/@6cfc6d05-38b2-48d6-83aa-2609e431c00d/31a8ad53-a1d8-4a80-81c1-36ea3e9ee28e.svg" width="495"></p>
 
 ---
