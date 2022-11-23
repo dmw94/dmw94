@@ -8,12 +8,16 @@
 
 ### What I have in my toolbox...
 
-![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![Ruby] ![CSS] ![HTML] ![XML] ![Markdown] ![LaTeX] ![PostgreSQL] ![MySQL] ![JSON] ![Bash] ![Zsh] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![Git] ![GitHub] ![Docker] ![Powershell]
+![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![Ruby] ![CSS] ![HTML] ![XML] ![Markdown] ![LaTeX] ![PostgreSQL] ![MySQL] ![JSON] ![Bash] ![Zsh] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![Git] ![GitHub] ![Docker] ![Powershell] ![JavaScript] ![D3.js] ![Azure]
 
 ### What I want to learn next...
 
-![TypeScript] ![D3.js] ![Nim]
+![Nim] ![C++] ![Go] ![x86 assembly]
 
+[Azure]: https://img.shields.io/badge/Azure-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=microsoftazure
+[x86 assembly]: https://img.shields.io/badge/x86_assembly-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=intel
+[Go]: https://img.shields.io/badge/Go-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=Go
+[C++]: https://img.shields.io/badge/C++-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=cplusplus
 [CSS]: https://img.shields.io/badge/CSS-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=css3
 [Powershell]: https://img.shields.io/badge/Powershell-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=powershell
 [VBA]: https://img.shields.io/badge/VBA-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=microsoftoffice
@@ -38,7 +42,7 @@
 [Docker]: https://img.shields.io/badge/Docker-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=docker
 [Nim]: https://img.shields.io/badge/Nim-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=nim
 [Markdown]: https://img.shields.io/badge/Markdown-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=markdown
-[TypeScript]: https://img.shields.io/badge/TypeScript-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=typescript
+[JavaScript]: https://img.shields.io/badge/JavaScript-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=javascript
 [PostgreSQL]: https://img.shields.io/badge/PostgreSQL-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=postgresql
 [MySQL]: https://img.shields.io/badge/MySQL-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=mysql
 
