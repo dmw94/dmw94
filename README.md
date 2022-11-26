@@ -12,12 +12,11 @@
 
 ### What I want to learn next...
 
-![Nim] ![C++] ![Go] ![x86 assembly]
+![Nim] ![Julia] ![x86 assembly]
 
 [Azure]: https://img.shields.io/badge/Azure-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=microsoftazure
 [x86 assembly]: https://img.shields.io/badge/x86_assembly-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=intel
-[Go]: https://img.shields.io/badge/Go-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=Go
-[C++]: https://img.shields.io/badge/C++-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=cplusplus
+[Julia]: https://img.shields.io/badge/Julia-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=julia
 [CSS]: https://img.shields.io/badge/CSS-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=css3
 [Powershell]: https://img.shields.io/badge/Powershell-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=powershell
 [VBA]: https://img.shields.io/badge/VBA-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=microsoftoffice
