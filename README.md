@@ -12,8 +12,10 @@
 
 ### What I want to learn next...
 
-![Nim] ![Julia] ![x86 assembly]
+![Nim] ![React] ![Julia] ![C] ![x86 assembly]
 
+[C]: https://img.shields.io/badge/C-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=c
+[React]: https://img.shields.io/badge/React-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=react
 [Azure]: https://img.shields.io/badge/Azure-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=microsoftazure
 [x86 assembly]: https://img.shields.io/badge/x86_assembly-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=intel
 [Julia]: https://img.shields.io/badge/Julia-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=julia
