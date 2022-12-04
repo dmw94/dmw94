@@ -12,8 +12,9 @@
 
 ### What I want to learn next...
 
-![Nim] ![React] ![Julia] ![C] ![x86 assembly] ![Haskell] ![TypeScript] ![C++]
+![Nim] ![React] ![Julia] ![C] ![x86 assembly] ![Haskell] ![TypeScript] ![C++] ![Go]
 
+[Go]: https://img.shields.io/badge/Go-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=go
 [Haskell]: https://img.shields.io/badge/Haskell-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=haskell
 [TypeScript]: https://img.shields.io/badge/TypeScript-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=typescript
 [C++]: https://img.shields.io/badge/C++-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=cplusplus
