@@ -12,9 +12,8 @@
 
 ### What I want to learn next...
 
-![Nim] ![React] ![Julia] ![C] ![x86 assembly] ![Haskell] ![TypeScript] ![C++] ![Go] ![Kotlin] ![Java]
+![Nim] ![React] ![Julia] ![C] ![x86 assembly] ![Haskell] ![TypeScript] ![C++] ![Go] ![Kotlin]
 
-[Java]: https://img.shields.io/badge/Java-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=java
 [Kotlin]: https://img.shields.io/badge/Kotlin-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=kotlin
 [Go]: https://img.shields.io/badge/Go-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=go
 [Haskell]: https://img.shields.io/badge/Haskell-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=haskell
