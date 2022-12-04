@@ -16,8 +16,7 @@
 
 [Haskell]: https://img.shields.io/badge/Haskell-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=haskell
 [TypeScript]: https://img.shields.io/badge/TypeScript-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=typescript
-[C++]: https://img.shields.io/badge/Cpp-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=cpp
-
+[C++]: https://img.shields.io/badge/C++-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=cplusplus
 [C]: https://img.shields.io/badge/C-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=c
 [React]: https://img.shields.io/badge/React-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=react
 [Azure]: https://img.shields.io/badge/Azure-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=microsoftazure
