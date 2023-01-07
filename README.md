@@ -7,9 +7,9 @@
 ![Nim] ![Electron] ![React] ![Julia] ![C] ![x86 assembly] ![Haskell] ![TypeScript] ![C++] ![Go] ![Kotlin]
 
 [curl]: https://img.shields.io/badge/curl-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=curl
-[Vim]: https://img.shields.io/badge/vim-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=vim
-[Neovim]: https://img.shields.io/badge/neovim-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=neovim
-[Electron]: https://img.shields.io/badge/electron-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=electron
+[Vim]: https://img.shields.io/badge/Vim-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=vim
+[Neovim]: https://img.shields.io/badge/Neovim-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=neovim
+[Electron]: https://img.shields.io/badge/Electron-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=electron
 [Kotlin]: https://img.shields.io/badge/Kotlin-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=kotlin
 [Go]: https://img.shields.io/badge/Go-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=go
 [Haskell]: https://img.shields.io/badge/Haskell-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=haskell
