@@ -1,14 +1,14 @@
 ### What I have in my toolbox...
 
-![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![Ruby] ![CSS] ![HTML] ![XML] ![Markdown] ![LaTeX] ![PostgreSQL] ![MySQL] ![JSON] ![Bash] ![Zsh] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![Git] ![GitHub] ![Docker] ![Powershell] ![JavaScript] ![D3.js] ![Azure] ![curl] ![vim] ![neovim]
+![Python] ![Rust] ![R] ![VB.NET] ![VBA] ![Ruby] ![CSS] ![HTML] ![XML] ![Markdown] ![LaTeX] ![PostgreSQL] ![MySQL] ![JSON] ![Bash] ![Zsh] ![Tableau] ![PowerBI] ![Google Data Studio] ![Figma] ![Git] ![GitHub] ![Docker] ![Powershell] ![JavaScript] ![D3.js] ![Azure] ![curl] ![Vim] ![Neovim]
 
 ### What I want to learn next...
 
 ![Nim] ![Electron] ![React] ![Julia] ![C] ![x86 assembly] ![Haskell] ![TypeScript] ![C++] ![Go] ![Kotlin]
 
 [curl]: https://img.shields.io/badge/curl-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=curl
-[vim]: https://img.shields.io/badge/vim-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=vim
-[neovim]: https://img.shields.io/badge/neovim-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=neovim
+[Vim]: https://img.shields.io/badge/vim-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=vim
+[Neovim]: https://img.shields.io/badge/neovim-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=neovim
 [Electron]: https://img.shields.io/badge/electron-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=electron
 [Kotlin]: https://img.shields.io/badge/Kotlin-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=kotlin
 [Go]: https://img.shields.io/badge/Go-292138?style=flat&labelColor=292138&logoColor=D33D9B&logo=go
